@@ -5,6 +5,6 @@
 
 create_avto.sql: скрипт для создания таблицы Auto и её наполнения.
 
-sql_requests.sql: Примеры SQL запросов для данной таблицы
+sql_requests.sql: Примеры SQL запросов для данной таблицы.
 
 ![image](https://github.com/user-attachments/assets/0eed0a89-8bb2-4f3e-b312-abef8c9c29e2)
